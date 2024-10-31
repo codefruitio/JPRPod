@@ -2,8 +2,8 @@
   "copyright": "",
   "theme": "light",
   "fundingText": "",
-  "author": "Author's name",
-  "name": "Podcast Name",
+  "author": "Ray & Dani",
+  "name": "Just Plain Random",
   "banner": "/banner.webp",
   "pageSize": 15,
   "fundingUrl": "",
@@ -12,12 +12,11 @@
   "explicit": false,
   "cover": "/cover.jpg",
   "language": "en",
-  "link": "https://your-website-url.netlify.app",
-  "email": "your.email@gmail.com",
-  "description": "A short description of your podcast. We suggest creating a podcast description between 600-900 characters or 120-170 words in length.",
+  "link": "https://jprpod.netlify.app",
+  "email": "justplainrandomofficial@gmail.com",
+  "description": "Welcome to the weekly podcast Just Plain Random, hosted by Ray Sterling and Dani Stockman—a show full of table talk, bonfire stories, and deep dives into real-life experiences. Each episode is raw and brings out the most candid, unfiltered sides of both hosts and future guests! Join us each week, and follow us on Instagram at @justplainrandomofficial.",
   "category": [
-    "Technology",
-    "Business"
+    "Comedy"
   ],
   "feedSize": ""
 }
