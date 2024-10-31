@@ -10,4 +10,4 @@ episode: 1
 season: 1
 episodeType: full
 ---
-This is an episode demo of Astropod. Here you can add the description of your episode.
+Ray & Dani chat about their favorite holidays, traditions, seasons, and more!
