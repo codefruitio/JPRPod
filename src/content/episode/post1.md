@@ -1,11 +1,11 @@
 ---
-title: Demo Episode
-audioUrl: https://ia800505.us.archive.org/15/items/astropod/1%20-%20Trailer%20with%20BG%20%28enhanced%29.ogg
-pubDate: Sep 10 2022
-duration: 00:32
-size: 0.7
+title: Holidays & Seasons
+audioUrl: https://drive.google.com/uc?export=download&id=10W1ZhMOgviHBfNeB4EcPMGUuw9N9Q6qc
+pubDate: Oct 28 2024
+duration: 44:26
+size: 87.6
 cover: ""
-explicit: false
+explicit: true
 episode: 1
 season: 1
 episodeType: full
